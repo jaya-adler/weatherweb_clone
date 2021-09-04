@@ -118,7 +118,7 @@ li{
     background-color: seagreen;
 }
 
-@media  screen and (max-width: 800px) {
+@media  screen and (max-width: 900px) {
 
     .body-left{
         width: inherit;
